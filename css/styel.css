@@ -1,0 +1,20 @@
+.badge_section{
+    background-color: #f8f8f8;
+}
+
+.icon{
+    color: #4D4D4D;
+}
+
+.section{
+    font-size: 18px;
+}
+
+@media(max-width:600px){
+
+.section {
+font-weight: bold!important;
+margin-left: 6px!important;
+font-size: 14px!important;
+}
+}
